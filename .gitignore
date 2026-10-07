@@ -1,0 +1,23 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Power BI temporary files
+*.pbit
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
